@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Holberton" title="#Holberton" src="https://assets.website-files.com/6105315644a26f77912a1ada/610554913a2930ac88545ecd_Holberton_Logo_Lockups-04.svg"  />
+    <img alt="Holberton" title="#Holberton" src="https://assets.website-files.com/6105315644a26f77912a1ada/610554913a2930ac88545ecd_Holberton_Logo_Lockups-04.svg"  style="width:128px;height:128px;"/>
 </h1>
 <h1 align="center"> 0x02. HTML, advanced </h1>
 <h4 align="center"> 
