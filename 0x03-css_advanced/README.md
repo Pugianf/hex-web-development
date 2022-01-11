@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Holberton" title="#Holberton" src="https://assets.website-files.com/6105315644a26f77912a1ada/610554913a2930ac88545ecd_Holberton_Logo_Lockups-04.svg"  style="width:128px;height:128px;"/>
 </h1>
-<h1 align="center"> 0x02. HTML, advanced </h1>
+<h1 align="center"> 0x03 - CSS, advanced </h1>
 <h4 align="center"> 
 	🚧  School homepage (part 1) - Concluded 🚧
 </h4>
@@ -15,9 +15,9 @@
 
 ## 💻 About the project
 
-This is the HTML code for the homepage.
+This is the CSS code for the homepage.
 
-Part 1 of a project developed as part of the **Full Stack Web Developer** program from [Holberton](https://www.holbertonschool.com/).
+Part 2 of a project developed as part of the **Full Stack Web Developer** program from [Holberton](https://www.holbertonschool.com/).
 
 ---
 
