@@ -63,10 +63,21 @@
     line-height: 151px;
   }
   .banner h2 {
-    position: relative;
+    position: absolute;
     font-size: 32px;
     font-weight: 300;
-    top: 631px;
-    left: 604px;
+    top: calc(50% - 40px/2 + 79.5px);
+    left: 41.94%;
+  }
+  .subtitle {
+    font-weight: bold;
+    font-size: 16px;
+    position: absolute;
+    left: 41.18%;
+    top: calc(50% - 20px/2 - 175.5px);
+  }
+  .subtitle p {
+    display: inline;
+    padding-inline-end: 65px;
   }
 
