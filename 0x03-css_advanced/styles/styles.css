@@ -48,4 +48,25 @@
     left: 0px;
     top: 0px;
 }
+.banner {
+    position: relative;
+    width: 1440px;
+    height: 1093px;
+    color: white;
+    font-family: Source Sans Pro;
+  }
+  .banner h1 {
+    text-align: center;
+    margin-top: 220px;
+    font-weight: bold;
+    font-size: 120px;
+    line-height: 151px;
+  }
+  .banner h2 {
+    position: relative;
+    font-size: 32px;
+    font-weight: 300;
+    top: 631px;
+    left: 604px;
+  }
 
