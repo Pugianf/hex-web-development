@@ -2,3 +2,50 @@
     display: flex;
     justify-content: center;
 }
+
+.header {
+    position: relative;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 99;
+    background-color: transparent;
+    padding: 40px 0;
+    transition: 0.3s;
+}
+
+.logo {
+    position: absolute;
+    left: 167.02px;
+    top: 35.02px;
+}
+
+.menu {
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 1041px;
+    top: 37px;
+    font-family: Source Sans Pro;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.menu a {
+    padding: 16px;
+    text-decoration: none;
+    color: #FFFFFF
+  }
+
+.background {
+    position: absolute;
+    background-image: url("../assets/background.png");
+    background-size: contain;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
+
