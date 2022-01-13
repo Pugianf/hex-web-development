@@ -154,6 +154,7 @@
     position: absolute;
     text-align: center;
     top: 110%;
+    left: 15px;
 }
 
 .pros h3 {
@@ -162,5 +163,9 @@
     top: 90%;
     line-height: 27px;
     text-align: center;
-    vertical-align: baseline;
+}
+
+
+.pros4 h3, .pros1 h3, .pros3 h3 {
+    left: 15px;
 }
