@@ -299,11 +299,11 @@
 
 .membership {
     background-color: #071629;
-    position: absolute;
+    position: relative;
     width: 1440px;
     height: 502px;
-    left: 40px;
-    top: 2109px;
+    left: 0%;
+    top: 22%;
 }
  
 .membership h1{
@@ -318,7 +318,7 @@
 .membContent{
     display: flex;
     position: relative;
-    top: 168px;
+    top: 120px;
     left: 204px;
     width: 1112px;
     height: 282px;
@@ -360,11 +360,11 @@
 
 .faq{
     font-family: "Source Sans Pro";
-    position: absolute;
+    position: relative;
     width: 920px;
     height: 707px;
-    left: 289px;
-    top: 2678px;
+    left: 18%;
+    top: 23%;
 }
 
 .faq h1{
