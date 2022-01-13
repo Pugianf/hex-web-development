@@ -46,7 +46,8 @@
     width: 1440px;
     height: 1093px;
     left: 0px;
-    top: 0px;
+    top: -10px;
+
 }
 .banner {
     position: relative;
@@ -120,7 +121,7 @@
 
 .pros2 {
     position: absolute;
-    left: 25%;
+    left: 28%;
     right: 0%;
     top: 0%;
     bottom: 36.71%;
@@ -128,7 +129,7 @@
 
 .pros3 {
     position: absolute;
-    left: 50%;
+    left: 56%;
     right: 0%;
     top: 0%;
     bottom: 36.71%;
@@ -136,7 +137,7 @@
 
 .pros4 {
     position: absolute;
-    left: 75%;
+    left: 85%;
     right: 0%;
     top: 0%;
     bottom: 36.71%;
@@ -183,11 +184,10 @@
 
 .quote {    
     background-color: #c271ff;
-    position: absolute;
+    position: relative;
     width: 1440px;
     height: 392px;
-    left: 40px;
-    top: 1100px;
+    top: -30px;
 }
 
 .quote img {
@@ -201,10 +201,89 @@
 .qText {
    position: absolute;
    width: 730px;
-   height: 158px;
-   left: 473px;
-   top: 110px;
+   height: 68px;
+   left: 423px;
+   top: 85px;
    color: white;
    font-family: 'Source Sans Pro';
-   font-size: 22px;
+   font-size: 20px;
+   line-height: 33.6px;
  }
+
+.tutorials {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 1228px;
+    height: 450px;
+    left: 106px;
+    top: 1572px;
+    font-family: 'Source Sans Pro';
+}
+
+.tutorials h1 {
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+    justify-content: start;
+    position: absolute;
+    left: 39.25%;
+    top: calc(50% - 40px/2 - 205px);
+}
+
+.tuto {
+     position: absolute;
+     display: flex;
+     justify-content: center;
+     top: 115px;
+     left: 60px;
+}
+
+.video img {
+    width: 255px;
+    height: 154px;
+}
+
+.video h2 {
+     padding-left: 10px;
+     font-size: 16px;
+     font-weight: bold;
+}
+
+.video p {
+     padding-left: 10px;
+     font-size: 14px;
+     font-weight: 300;
+     width: 242px;
+     height: 48px;
+}
+
+.author img {
+    padding-left: 10px;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: auto;
+    top: 261px;
+}
+
+.author h3 {
+    position: absolute;
+    top: 255px;
+    left: auto;
+    padding-left: 50px;
+    font-size: 14px;
+    color: #c271ff;
+}
+
+.starc {
+     padding-left: 40px;
+}
+
+.star img {
+     padding-left: 10px;
+     position: relative;
+     width: 15px;
+     height: 15px;
+     top: 40px;
+}
