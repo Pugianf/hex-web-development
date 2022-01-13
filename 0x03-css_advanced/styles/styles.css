@@ -327,7 +327,7 @@
 .membContent button{
     position: absolute;
     left: 39%;
-    top: 65%;
+    top: 78%;
   
 }
 
@@ -423,4 +423,45 @@
     top: 66%;
     width: 350px;
     height: 242px;
+}
+
+.footer {
+    position: relative;
+    width: 1440px;
+    height: 249px;
+    left: 0px;
+    top: 0px;
+    background-color: #071629;
+}
+
+.footer p {
+    position: absolute;
+    left: 47%;
+    top: calc(50% - 15px/2 + 78px);;
+    font-family: 'Source Sans Pro';
+    color: white;
+    font-size: 12px;
+    mix-blend-mode: normal;
+    opacity: 0.35;
+}
+
+.flogo {
+    position: absolute;
+    left: 11.46%;
+    top: 38.15%;
+    width: 169px;
+    height: 30px;
+}
+
+.social {
+    display: flex;
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    left: 1070px;
+    top: 90px;
+}
+
+.social img {
+    padding-inline: 20px;
 }
