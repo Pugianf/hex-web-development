@@ -110,26 +110,46 @@
     top: 758px;
 }
 
-.pros1 {
+.pro1 {
     position: absolute;
     left: 217px;
     width: 150px;
   }
-  
-.pros2 {
+  .pro2 {
    position: absolute;
    left: 506px;
    width: 150px;
  }
+ .pro3 {
+   position: absolute;
+   left: 787px;
+   width: 150px;
+ }
+ .pro4 {
+   position: absolute;
+   left: 1076px;
+   width: 150px;
+ }
+ .pro4 h3, .pro1 h3, .pro3 h3 {
+   left: 10%;
+ }
 
-.pro3 {
-    position: absolute;
-    left: 787px;
+  .pros img{
     width: 150px;
-}
-
-.pro4 {
+    height: 150px;
+  }
+  .pros p {
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 300;
     position: absolute;
-    left: 1076px;
-    width: 150px;
-}
+    text-align: center;
+    top: 110%;
+  }
+  .pros h3 {
+    position: absolute;
+    font-weight: 900;
+    top: 90%;
+    line-height: 27px;
+    text-align: center;
+  }
