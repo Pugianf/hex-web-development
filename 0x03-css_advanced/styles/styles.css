@@ -180,3 +180,31 @@
 .pros1 p, .pros4 p {
     left: 7px;
 }
+
+.quote {    
+    background-color: #c271ff;
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: 40px;
+    top: 1100px;
+}
+
+.quote img {
+   position: absolute;
+   width: 160px;
+   height: 160px;
+   left: 260px;
+   top: 108px;
+ }
+
+.qText {
+   position: absolute;
+   width: 730px;
+   height: 158px;
+   left: 473px;
+   top: 110px;
+   color: white;
+   font-family: 'Source Sans Pro';
+   font-size: 22px;
+ }
