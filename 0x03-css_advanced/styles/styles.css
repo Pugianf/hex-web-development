@@ -112,8 +112,10 @@
 
 .pro1 {
     position: absolute;
-    left: 217px;
-    width: 150px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 36.71%;
   }
   .pro2 {
    position: absolute;
