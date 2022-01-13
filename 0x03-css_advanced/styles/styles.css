@@ -154,7 +154,6 @@
     position: absolute;
     text-align: center;
     top: 110%;
-    left: 15px;
 }
 
 .pros h3 {
@@ -168,4 +167,16 @@
 
 .pros4 h3, .pros1 h3, .pros3 h3 {
     left: 15px;
+}
+
+.pros2 h3{
+    left: 3px;
+}
+
+.pros2 p {
+    left: 15px;
+}
+
+.pros1 p, .pros4 p {
+    left: 7px;
 }
