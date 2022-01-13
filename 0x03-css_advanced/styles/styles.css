@@ -37,7 +37,7 @@
     padding: 16px;
     text-decoration: none;
     color: #FFFFFF
-  }
+}
 
 .background {
     position: absolute;
@@ -54,33 +54,38 @@
     height: 1093px;
     color: white;
     font-family: Source Sans Pro;
-  }
-  .banner h1 {
+ }
+
+ .banner h1 {
     text-align: center;
     margin-top: 220px;
     font-weight: bold;
     font-size: 120px;
     line-height: 151px;
-  }
-  .banner h2 {
+ }
+
+ .banner h2 {
     position: absolute;
     font-size: 32px;
     font-weight: 300;
     top: calc(50% - 40px/2 + 79.5px);
     left: 41.94%;
-  }
-  .subtitle {
+ }
+
+ .subtitle {
     font-weight: bold;
     font-size: 16px;
     position: absolute;
     left: 41.18%;
     top: calc(50% - 20px/2 - 175.5px);
-  }
-  .subtitle p {
+ }
+
+ .subtitle p {
     display: inline;
     padding-inline-end: 65px;
-  }
-  .button {
+ }
+
+ .button {
     position: absolute;
     left: 44.38%;
     top: 38.33%;
@@ -95,5 +100,24 @@
     font-family: Source Sans Pro;
     font-size: 14px;
     filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
-     }
+}
 
+.pros {
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    left: 217px;
+    top: 758px;
+}
+
+.pro1 {
+    position: absolute;
+    left: 217px;
+    width: 150px;
+  }
+  
+  .pro2 {
+   position: absolute;
+   left: 506px;
+   width: 150px;
+ }
