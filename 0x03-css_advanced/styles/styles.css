@@ -110,31 +110,31 @@
     top: 758px;
 }
 
-.pro1 {
+.pros1 {
     position: absolute;
     left: 0%;
     right: 0%;
     top: 0%;
     bottom: 36.71%;
   }
-  .pro2 {
+  .pros2 {
     position: absolute;
-    left: 25%;
+    left: 0%;
     right: 0%;
     top: 0%;
     bottom: 36.71%;
  }
- .pro3 {
+ .pros3 {
    position: absolute;
    left: 787px;
    width: 150px;
  }
- .pro4 {
+ .pros4 {
    position: absolute;
    left: 1076px;
    width: 150px;
  }
- .pro4 h3, .pro1 h3, .pro3 h3 {
+ .pros4 h3, .pros1 h3, .pros3 h3 {
    left: 10%;
  }
 
