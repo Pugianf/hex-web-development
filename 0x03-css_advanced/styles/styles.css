@@ -426,11 +426,11 @@
 }
 
 .footer {
-    position: relative;
+    position: absolute;
     width: 1440px;
     height: 249px;
-    left: 0px;
-    top: 0px;
+    left: 40px;
+    top: 3469px;
     background-color: #071629;
 }
 
