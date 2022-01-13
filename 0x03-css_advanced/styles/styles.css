@@ -142,10 +142,6 @@
     bottom: 36.71%;
 }
 
-.pros4 h3, .pros1 h3, .pros3 h3 {
-   left: 10%;
-}
-
 .pros img{
     width: 150px;
     height: 150px;
@@ -166,4 +162,5 @@
     top: 90%;
     line-height: 27px;
     text-align: center;
+    vertical-align: baseline;
 }
